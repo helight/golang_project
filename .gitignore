@@ -1,0 +1,9 @@
+tencentsms/tencentsms
+gocode/gocode
+gocli/gocli
+gocli/gocli2
+
+tmp
+log/*
+.DS_Store
+
